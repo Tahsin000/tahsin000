@@ -33,6 +33,7 @@
 <img src="./Skillicons/html.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/css.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/bootstrap.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/JavaScript.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/github.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/photoshop.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/PremierePro.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
