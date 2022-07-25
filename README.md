@@ -1,14 +1,10 @@
-<img align="right" alt="coding" width="350" src="https://i.ibb.co/Mkjg2y8/122.gif">
+<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 ### HI THERE !
 
 <h1>Tahsin Abrar</h1>
 
-<!-- - 💬 Ask me about **React, Node and JavaScript.** -->
-
 - 📫 E-mail : **towahatahsin01@gmail.com**
-<!-- - 📝 Portfolio : [jahidulislamzim.com](https://jahidulislamzim.com/) -->
-<!-- - 📄 Resume : [Download Resume](https://drive.google.com/uc?export=download&id=1UN8TuyuPvDDYAdo9vSe22unQwyaXq_ep) -->
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
