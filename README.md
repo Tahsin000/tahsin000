@@ -33,13 +33,18 @@
 <img src="./Skillicons/html.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/css.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/bootstrap.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/JavaScript.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/github.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/photoshop.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img src="./Skillicons/Illustrator.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/PremierePro.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/AdobeAfterEffects.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/AI.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/VideoPad.jpg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/Blender.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/c4d.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/sketchup.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/autocad.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+
 </p>
 <br />
 
