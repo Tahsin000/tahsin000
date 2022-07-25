@@ -9,11 +9,11 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 
-- I have been working in the online marketplace for the past **five years** Also,
-- have great experience in the **local market**. 
-- I am designed everything from logos to graphics related.
 - I always like working in **Visual Studio Code** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
+- I have been working in the online marketplace for the past **five years** Also,
+- I have great experience in the **local market**. 
+- I am designed everything from graphics related.
 
 </br>
 
@@ -54,8 +54,22 @@
 <img src="./Skillicons/autocad.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/> -->
 
 </p>
-<br />
 
+### Software:
+
+<p align="left">
+<img src="./Skillicons/photoshop.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/PremierePro.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/AdobeAfterEffects.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/AI.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/VideoPad.jpg" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/Blender.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/c4d.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/sketchup.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/autocad.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/> 
+
+</p>
+<br />
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
   <summary>📊 Github Readme Stats</summary>
