@@ -8,12 +8,12 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-<!-- 
+
 - I have been working in the online marketplace for the past **five years** Also,
 - have great experience in the **local market**. 
 - I am designed everything from logos to graphics related.
 - I always like working in **Visual Studio Code** Environment.
-- I'm a knowledge seeker & I love to learn new 💻 **Technologies**. -->
+- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
 </br>
 
@@ -30,12 +30,20 @@
 ### Languages and Tools:
 
 <p align="left">
+<img src="./Skillicons/C.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/Cplus.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/java.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+
 <img src="./Skillicons/html.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+
 <img src="./Skillicons/css.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/bootstrap.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/JavaScript.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/github.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img src="./Skillicons/photoshop.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/python.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+
+
+<!-- <img src="./Skillicons/photoshop.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/PremierePro.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/AdobeAfterEffects.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/AI.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
@@ -43,7 +51,7 @@
 <img src="./Skillicons/Blender.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/c4d.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
 <img src="./Skillicons/sketchup.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
-<img src="./Skillicons/autocad.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/>
+<img src="./Skillicons/autocad.png" alt="" height="40" width="40" style='margin-top:15px; margin-left:15px '/> -->
 
 </p>
 <br />
