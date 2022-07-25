@@ -4,9 +4,6 @@
 
 <h1>Tahsin Abrar</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=071A22&vCenter=true&width=250&height=35&lines=Software+Engineer;UI+%26+UX+Designer;MERN+Stack+Developer)](https://jahidulislamzim.com/)
-
-
 <!-- - 💬 Ask me about **React, Node and JavaScript.** -->
 
 - 📫 E-mail : **towahatahsin01@gmail.com**
