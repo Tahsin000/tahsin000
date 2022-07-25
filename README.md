@@ -8,12 +8,12 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-
+<!-- 
 - I have been working in the online marketplace for the past **five years** Also,
 - have great experience in the **local market**. 
 - I am designed everything from logos to graphics related.
 - I always like working in **Visual Studio Code** Environment.
-- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
+- I'm a knowledge seeker & I love to learn new 💻 **Technologies**. -->
 
 </br>
 
