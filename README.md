@@ -2,18 +2,19 @@
 
 ### HI THERE !
 
-<h1>Tahsin Abrar</h1>
+<h1>Muhammad Tahsin Abrar</h1>
 
 - 📫 E-mail : **towahatahsin01@gmail.com**
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 
+- I'm a **Motion** ,**3d Model Designer** and **Backend Developer**.
 - I always like working in **Visual Studio Code** Environment.
-- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
-- I have been working in the online marketplace for the past **five years** Also,
-- I have great experience in the **local market**. 
-- I am designed everything from graphics related.
+- I'm a knowledge seeker, and I love to learn new 💻 **technologiess**. 
+- I have been working in the online marketplace for the past **five years**.
+- I have great experience in the **local market**.
+- I like to do coding and designing at the same time.
 
 </br>
 
