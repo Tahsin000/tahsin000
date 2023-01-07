@@ -4,7 +4,6 @@
 
 <h1>Muhammad Tahsin Abrar</h1>
 
-- 📫 E-mail : **towahatahsin01@gmail.com**
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
