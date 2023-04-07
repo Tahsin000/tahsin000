@@ -86,5 +86,18 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahsin000&theme=radical&hide_border=true"/>
 </p>
 
+<a href="http://www.github.com/Tahsin000"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tahsin000&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/Tahsin000/github-readme-activity-graph" alt="GitHub Commits Graph" /></a>
+
+
+<details>
+ <summary>🏆 Github Profile Trophy</summary>
+ </br>
+ <p align="center">
+  <a href="https://github.com/Tahsin000">
+   <img src="https://github-profile-trophy.vercel.app/?username=Tahsin000&column=8&theme=darkhub"/>
+    
+  </a>
+ </p>
+</details>
 
 
